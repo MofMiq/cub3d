@@ -223,3 +223,5 @@ En mi caso, para asegurarme de que todos los rayos tocan el plano de proyección
 <p align="center">
     <img src="https://github.com/erivero-p/cub3d/blob/main/readme%20images/deltaang-bien.png" width="450" height="450" alt="Nombre alternativo">
 </p>
+
+Subject version: 10
